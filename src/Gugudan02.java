@@ -14,7 +14,7 @@ public class Gugudan02 {
 			System.out.println("값을 잘못 입력하였습니다.");
 		} else {
 			for (int i = 1; i < 10; i++) {
-				System.out.println(number * i);
+				System.out.println(number + "X" + i + "=" + number * i);
 			}
 		}
 	}
