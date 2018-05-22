@@ -12,7 +12,7 @@ public class Gugudan03 {
 			System.out.println(result[i]);
 		}
 	}
-
+	//메인메서드는 프로그램을 구현하는 메서드
 	public static void main(String[] args) {
 		
 		for(int i=2; i<10; i++) {
